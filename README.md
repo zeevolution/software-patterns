@@ -1,6 +1,6 @@
-# Software Patterns
+# Software Design Architecture & Implementations
 
-This repository contains some studies and implementation examples regarding all possible well know software patterns. The idea is to serve as a study guide for young software developers who seek to improved their development skills.
+This repository serves as a study guide for young software developers who seek to improve their development skills. Here, you'll find many software development topics which are intent to cover basic definitions and usage examples.
 
 ### Index
 
