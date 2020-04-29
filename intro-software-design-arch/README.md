@@ -1,6 +1,6 @@
-# Software Design Architecture
+# Introduction to Software Design Architecture
 
-For this section, we are going to study the basics of software design architecture mainly based on the book [`Introdução à Arquitetura de Design de Software`](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298) by Paulo Silveira.
+In here, we are going to study the basics of software design architecture based on the book [`Introdução à Arquitetura de Design de Software`](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298) by Paulo Silveira.
 
 I chose this book because it is the best reading I had ever had on the subject while I was striving to improve my software development skills as a young software engineer.
 
