@@ -58,4 +58,4 @@ The JVM is a specification guided by the [Java Community Process](https://www.jc
 
 Since the bytecodes were what matters for a JVM machine, many other programming languages have been created for the Java Platform. We can find a list out [here](https://www.whoishostingthis.com/compare/java/jvm-programming/). The language you may want to use depends entirely of the problem you have to solve.
 
-> One interesting thing to note here is that the Java Platform has grown to a such level of specification that we do not even need to use the Java language itself.
+> One interesting thing to note here is that the Java Platform has grown to a such level of specification that we do not even need to use the Java language itself. There are many other languages that can be compiled suitably to a JVM implementation. Then, it is important to use the right language for each problem.
